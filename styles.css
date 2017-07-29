@@ -5,3 +5,23 @@ body {
 	background-size: cover;
 	background-attachment: fixed;
 }
+h3 {
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+	font-size: 1.4em;
+	width: 20%;
+	margin-right: 5%;
+	margin-bottom: 5%;
+	margin-left: 1%;
+}
+body p {
+	width: 70%;
+	float: right;
+	padding-left: 2.5%;
+	padding-right: 2.5%;
+	padding-top: 2.5%;
+	padding-bottom: 2.5%;
+	background-image: -webkit-linear-gradient(270deg,rgba(255,255,255,0.81) 24.87%,rgba(255,255,255,0.19) 100%,rgba(255,252,252,0.71) 100%);
+	background-image: -moz-linear-gradient(270deg,rgba(255,255,255,0.81) 24.87%,rgba(255,255,255,0.19) 100%,rgba(255,252,252,0.71) 100%);
+	background-image: -o-linear-gradient(270deg,rgba(255,255,255,0.81) 24.87%,rgba(255,255,255,0.19) 100%,rgba(255,252,252,0.71) 100%);
+	background-image: linear-gradient(180deg,rgba(255,255,255,0.81) 24.87%,rgba(255,255,255,0.19) 100%,rgba(255,252,252,0.71) 100%);
+}
