@@ -1,0 +1,7 @@
+@charset "utf-8";
+body {
+	background-color: #767676;
+	background-image: url(WIN_20170204_15_39_23_Pro.jpg);
+	background-size: cover;
+	background-attachment: fixed;
+}
